@@ -90,7 +90,7 @@ For more information, take a look at continuous delivery as defined in the [CNCF
 
 Continuous Deployment is the practice of automatically deploying code changes to production once they have passed through automated testing. 
 
-For more information, take a look at continuous delivery as defined in the [CNCF Glossary](https://glossary.cncf.io/continuous-delivery/).
+For more information, take a look at continuous delivery as defined in the [CNCF Glossary](https://glossary.cncf.io/continuous-deployment/).
 
 ## Progressive Delivery
 
